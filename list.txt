@@ -1,1 +1,16 @@
 ||windows.net
+||chrome.com
+||mailserverguru.com
+||github.io
+||maxmind.com
+||mile.si
+||sstatic.net
+||gitbook.io
+||mvnrepository.com
+||nacos.io
+||ubisoft.com
+||flux-cdn.com
+||qhh.me
+||readthedocs.io
+||wootric.com
+||cloudfront.net
